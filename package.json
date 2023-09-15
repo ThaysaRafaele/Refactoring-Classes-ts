@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "@types/react-dom": "^18.2.7",
     "@types/react-modal": "^3.16.0",
     "@types/react-router-dom": "^5.3.3",
     "@unform/core": "^2.1.6",
@@ -47,9 +48,9 @@
     ]
   },
   "devDependencies": {
+    "@types/babel__traverse": "^7.20.1",
     "@types/react": "^18.2.21",
     "@types/styled-components": "^5.1.27",
-    "eslint": "^8.49.0",
     "json-server": "^0.16.3"
   }
 }
